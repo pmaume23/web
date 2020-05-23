@@ -1,0 +1,35 @@
+body {
+background-color: #d4f3ef;;
+
+}
+
+hr {
+  background-color: white;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+
+h1{
+  color: #00005c;
+  font-size: 60px;
+}
+
+h3{
+  color: #27496d;
+  font-size: 30px;
+}
+
+.gradcap{
+  border-radius: 10%;
+}
+
+a:hover{
+  background-color: gold;
+}
+
+h3:hover{
+  background-color: violet;
+}
